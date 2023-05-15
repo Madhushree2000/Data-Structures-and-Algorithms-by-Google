@@ -1,6 +1,6 @@
 
 # Data Structure & Algorithms in Python
--by Google in [Udemy](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513)
+-by Google in [Udacity](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513)
 
 ### Course Outline
 
