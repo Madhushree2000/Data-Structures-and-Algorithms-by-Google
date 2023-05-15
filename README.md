@@ -1,6 +1,6 @@
 
 # Data Structure & Algorithms in Python
--by Google in [Udemy](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513)
+-by Google in [Udacity](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513)
 
 ### Course Outline
 
@@ -18,9 +18,9 @@
 3. **Searching and Sorting**
 - [Binary Search](https://youtu.be/0VN5iwEyq4c)
 - [Recursion](https://youtu.be/_aI2Jch6Epk)
-- Bubble Sort
-- Merge Sort
-- Quick Sort
+- [Bubble Sort](https://youtu.be/h_osLG3GmjE)
+- [Merge Sort](https://youtu.be/K916wfSzKxE)
+- [Quick Sort](https://youtu.be/kUon6854joI)
 4. **Maps and Hashing**
 - Maps
 - Hashing
