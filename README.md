@@ -12,7 +12,7 @@
 - [Notation of Efficiency](https://youtu.be/ZeGnkrKZWBQ)
 2. **List-Based Collections**
 - Lists/Arrays
-- Linked Lists
+- [Linked Lists]()
 - Stacks
 - Queues
 3. **Searching and Sorting**
